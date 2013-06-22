@@ -1,0 +1,18 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:security="clr-namespace:SecurityApp">
+    <security:SecurityDataController x:Key="securityDataController"/>
+
+    <Style TargetType="{x:Type TextBox}" >
+        <Setter Property="IsReadOnly">
+            <Setter.Value>
+                <Binding 
+                        Source="{StaticResource securityDataController}" 
+                        Path="IsReadOnly" 
+                        Mode="OneWay" 
+                        NotifyOnSourceUpdated="True" />
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+</ResourceDictionary>

@@ -1,0 +1,16 @@
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\bin\Debug\SecurityApp.exe.config
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\bin\Debug\SecurityApp.exe
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\bin\Debug\SecurityApp.pdb
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\SecurityApp.csprojResolveAssemblyReference.cache
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\MainWindow.g.cs
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\App.g.cs
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\SecurityApp_MarkupCompile.cache
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\SecurityApp_MarkupCompile.lref
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\MainWindow.baml
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\Resources\SecurityResources.baml
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\SecurityApp.g.resources
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\SecurityApp.Properties.Resources.resources
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\SecurityApp.csproj.GenerateResource.Cache
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\SecurityApp.exe
+C:\Users\simkim\Documents\Visual Studio 2012\Projects\SecurityApp\SecurityApp\obj\Debug\SecurityApp.pdb
